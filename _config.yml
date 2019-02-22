@@ -7,8 +7,8 @@
 
 # Site settings
 title:  Thinkingcao的博客
-subtitle: 分享技术，品味人生
-name: Thinkingcao
+subtitle: 热爱生活 锤炼技术
+name: Thinkingcao的博客
 email: Thinkingcao@126.com
 description: 本站是Thinkingcao的技术分享博客。内容涵盖生活故事、Java后端技术、Spring Boot、Spring Cloud、微服务架构、大数据演进、高可用架构、中间件使用、系统监控等相关的研究与知识分享。
 keywords: Thinkingcao,Spring,Spring Boot,Spring Cloud,MongoDB,Jvm,Docker,生活故事,架构,大数据,一线,FastDFS,开发者,编程,代码,开源,IT网站,Developer,Programmer,Coder,Geek,IT技术博客,Java,Python,
@@ -121,12 +121,12 @@ navs:
 
   -
     href: /archives.html
-    label: Archives
+    label: 归档
     target: _self
 
   -
     href: /about.html
-    label: About
+    label: 资源
     target: _self
 
 
@@ -135,32 +135,37 @@ labels:
 
   -
     href: /fastdfs.html
-    label: FastDFS
+    label: SpringBoot
     target: _blank
 
   -
     href: /mongodb.html
-    label: MongoDB
+    label: SpringCloud
     target: _blank
 
   -
     href: /docker.html
-    label: Docker
+    label: 微信开发
     target: _blank
 
   -
     href: /open-source.html
-    label: Code  
+    label: 分布式  
     target: _blank
 
   -
     href: /it.html
-    label: It 
+    label: 支付开发 
     target: _blank
 
   -
     href: /python.html
-    label: Python  
+    label: 高可用  
+    target: _blank
+    
+  -
+    href: /python.html
+    label: https://blog.csdn.net/thinkingcao  
     target: _blank
 
 
@@ -169,7 +174,7 @@ classes:
 
   -
     href: /life.html
-    name: 我的故事
+    name: 关于生活
     describe: 生活就是故事，故事就是生活
 
   -
